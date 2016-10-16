@@ -1,0 +1,15 @@
+  /* Regular */
+/* frutiger_ce_55_romanregular */
+
+@font-face {
+    font-family: 'frutiger_ce_55_romanregular';
+    src: url('frutiger_ce_55_roman_0-webfont.eot');
+    src: url('frutiger_ce_55_roman_0-webfont.eot?#iefix') format('embedded-opentype'),
+         url('frutiger_ce_55_roman_0-webfont.woff2') format('woff2'),
+         url('frutiger_ce_55_roman_0-webfont.woff') format('woff'),
+         url('frutiger_ce_55_roman_0-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+
+}
